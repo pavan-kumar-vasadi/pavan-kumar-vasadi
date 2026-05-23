@@ -1,10 +1,6 @@
-<h1 align="center">Hi 👋, I'm Pavan Kumar</h1>
-
-<h3 align="center">A Passionate Frontend Developer from India</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;JavaScript+Learner;Building+Awesome+Projects" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Pavan+Kumar;Frontend+Developer;React+Developer;Creative+Coder;Building+Awesome+Projects+🚀" />
+</h1>
 
 <!--
 **pavan-kumar-vasadi/pavan-kumar-vasadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
