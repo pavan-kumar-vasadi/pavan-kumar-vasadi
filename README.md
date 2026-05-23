@@ -47,6 +47,7 @@
   <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=pavan-kumar-vasadi&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 ---
+# 🌈 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=pavan-kumar-vasadi&layout=compact&theme=tokyonight&hide_border=true" />
