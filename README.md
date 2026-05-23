@@ -69,6 +69,11 @@
 </p>
 
 ---
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/pavan-kumar-vasadi/pavan-kumar-vasadi/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile ⭐
