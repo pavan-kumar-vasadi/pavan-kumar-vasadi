@@ -12,5 +12,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pavan-kumar-vasadi&show_icons=true&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=pavan-kumar-vasadi&theme=tokyonight" />
 </p>
