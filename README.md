@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000008bc8720896e1455cf25ae19a&ts=494308&p=fs&cid=1&sig=909d9301b58320dc3c0ecad29d2dd7dc8fdf02c1f7ce9f10d27996cdd6de527d&v=0" alt="Pavan Kumar Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/pavan-kumar-vasadi/pavan-kumar-vasadi/main/banner.png" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Pavan Kumar</h1>
