@@ -48,12 +48,9 @@
 </p>
 ---
 
-# 🌈 Most Used Languages
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan-kumar-vasadi&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=pavan-kumar-vasadi&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 # 🏆 GitHub Trophies
