@@ -1,4 +1,8 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Pavan Kumar</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Learner;JavaScript+Enthusiast;Open+Source+Learner" />
+</p>
 
 <!--
 **pavan-kumar-vasadi/pavan-kumar-vasadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
