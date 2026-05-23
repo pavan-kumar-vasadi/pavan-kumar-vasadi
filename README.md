@@ -1,105 +1,47 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Hi+👋,+I'm+Pavan+Kumar;Frontend+Developer+⚡;React+Developer+🚀;Building+Awesome+Projects🔥" />
-</h1>
+<h1 align="center">Hi 👋, I'm Pavan Kumar</h1>
 
-<h3 align="center">✨ Passionate Frontend Developer From India ✨</h3>
-
----
-
-## 🌐 Socials
+<h3 align="center">A Passionate Frontend Developer from India</h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-
-  <a href="https://instagram.com/YOUR_USERNAME">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;JavaScript+Learner;Building+Awesome+Projects" />
 </p>
 
----
+<!--
+**pavan-kumar-vasadi/pavan-kumar-vasadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# 💻 Tech Stack
+Here are some ideas to get you started:
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,github,git,vscode,mongodb" />
-</p>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
----
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Vasadi pavan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pavan_development_course) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/VASADI PAVAN KUMAR) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pavankumarvasadi@gmail.com) 
 
-# 📊 GitHub Stats
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180em"/>
-</p>
+## 📊 GitHub Stats
 
----
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pavan-kumar-vasadi&show_icons=true&theme=tokyonight)
 
-# 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=pavan-kumar-vasadi&theme=tokyonight)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15" />
-</p>
+### 🔝 Portfolio
+https://pavan-kumar-vasadi.github.io/Personal-Portfolio-Website/
 
----
+### 🔝 Resume
+https://uploads.onecompiler.io/43quxrqu5/44ptvbv2j/Screenshot%202026-05-20%20144808.png
 
-# 🌈 Most Used Languages
+### 🔝 Linkdin
+www.linkedin.com/in/pavan-kumar-vasadi
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
-</p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 🔹 E-commerce Website
-🛒 Modern shopping website using HTML, CSS & JavaScript
-
-### 🔹 Personal Portfolio
-🌐 Responsive portfolio website
-
-### 🔹 Blackjack Game
-🎮 Fun JavaScript card game
-
-### 🔹 Movie Streaming UI
-🎬 Netflix-style frontend design
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-<h3 align="center">
-⭐ Thanks for visiting my profile ⭐
-</h3>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
