@@ -34,13 +34,12 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,github,git,vscode,mongodb" />
 </p>
 
----
-
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavan-kumar-vasadi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pavan-kumar-vasadi&show_icons=true&theme=tokyonight" />
 </p>
+
 
 ---
 
