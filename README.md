@@ -99,7 +99,7 @@
 ✅ HTML, CSS, JavaScript based music player.
 
 🔗 Live Demo:
-https://pavan-kumar-vasadi.github.io/Personal-Portfolio-Website/
+https://e-commerce-website-2-mp2k-9zc6np7ht.vercel.app/
 
 📂 GitHub Repo:
 https://pavan-kumar-vasadi.github.io/Personal-Portfolio-Website/
