@@ -60,7 +60,9 @@
 
 # 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pavan-kumar-vasadi)](https://github.com/ryo-ma/github-profile-trophy)
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=pavan-kumar-vasadi&theme=discord&no-frame=true&row=1&column=6)
 
 ---
 
