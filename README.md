@@ -92,19 +92,6 @@
 
 <h3 align="center"> 
 
-## 🚀 Featured Projects
-
-### PERSONAL PORTFOLIO
-
-✅ HTML, CSS, JavaScript based music player.
-
-🔗 Live Demo:
-https://e-commerce-website-2-mp2k-9zc6np7ht.vercel.app/
-
-📂 GitHub Repo:
-https://pavan-kumar-vasadi.github.io/Personal-Portfolio-Website/
-
-
 
 ⭐ Thanks for visiting my profile ⭐
 </h3>
