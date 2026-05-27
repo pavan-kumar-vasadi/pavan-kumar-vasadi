@@ -91,6 +91,22 @@
 </picture>
 
 <h3 align="center"> 
-  
+
+## 🚀 Featured Projects
+
+
+
+### PERSONAL PORTFOLIO
+
+✅ HTML, CSS, JavaScript based music player.
+
+🔗 Live Demo:
+
+
+📂 GitHub Repo:
+
+
+<img src="https://uploads.onecompiler.io/43quxrqu5/44qgsqurc/Screenshot%202025-08-29%20123838.png" width="100%" />
+
 ⭐ Thanks for visiting my profile ⭐
 </h3>
