@@ -104,7 +104,7 @@ https://pavan-kumar-vasadi.github.io/Personal-Portfolio-Website/
 📂 GitHub Repo:
 https://pavan-kumar-vasadi.github.io/Personal-Portfolio-Website/
 
-<img src="https://uploads.onecompiler.io/43quxrqu5/44qgsqurc/Screenshot%202025-08-29%20123838.png" width="100%" />
+
 
 ⭐ Thanks for visiting my profile ⭐
 </h3>
