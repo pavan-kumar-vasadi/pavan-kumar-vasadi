@@ -72,6 +72,10 @@
   <img src="https://komarev.com/ghpvc/?username=pavan-kumar-vasadi&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
 </p>
 
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=pavan-kumar-vasadi&theme=react-dark)
+
 ---
 # 🐍 Contribution Snake
 
